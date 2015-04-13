@@ -5,6 +5,7 @@ public class TestGit {
 	
 	public TestGit(String name){
 		new AutreTestGit(name);
+		System.out.println("First change.");
 	}
 
 	public static void main(String[] args) {
